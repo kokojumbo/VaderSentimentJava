@@ -1,4 +1,4 @@
-## VADER-Sentiment-Analysis in Java
+## VADER-Sentiment-Analysis in Java 
 ===================================
 
 [![Build Status](https://travis-ci.org/apanimesh061/VaderSentimentJava.svg?branch=master)](https://travis-ci.org/apanimesh061/VaderSentimentJava)
